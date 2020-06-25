@@ -1,2 +1,5 @@
 # python-first-project
-python first project
+#to print any type of content use print like this
+print("Hello world")
+print("Hello  my name is amna ")
+print("welcome to python ")
